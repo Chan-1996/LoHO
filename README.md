@@ -1,4 +1,4 @@
-#LoHO
+# LoHO
 
 ### Installation
 ```bash
@@ -9,7 +9,7 @@ datasets==2.14.4
 spops
 ```
 
-###RoBERTa-large experiments
+### RoBERTa-large experiments
 ```bash
 cd medium_models
 
@@ -24,7 +24,7 @@ bash loho_adam_intra.sh
 ```
 You can modify the task name and hyperparamters in these scripts.
 
-###OPT-13B experiments
+### OPT-13B experiments
 ```bash
 cd large_models
 
