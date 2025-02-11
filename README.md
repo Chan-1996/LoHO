@@ -1,4 +1,4 @@
-# Towards Efficient Low-Order Hybrid Optimizer for Language Model Fine-Tuning
+# [AAAI 2025] Towards Efficient Low-Order Hybrid Optimizer for Language Model Fine-Tuning
 
 ### Installation
 ```bash
@@ -38,3 +38,6 @@ bash loho_adam_inter.sh
 bash loho_adam_intra.sh
 ```
 You can modify the task name and hyperparamters in these scripts.
+
+### Acknowledgment
+The implementation of our method is built upon the foundation laid by [MeZO](https://github.com/princeton-nlp/MeZO)
