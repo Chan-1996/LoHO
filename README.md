@@ -1,4 +1,4 @@
-# LoHO
+# Towards Efficient Low-Order Hybrid Optimizer for Language Model Fine-Tuning
 
 ### Installation
 ```bash
